@@ -300,3 +300,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Appzr.API/Appzr.db
+/Appzr.API/AppzrQuery.db
